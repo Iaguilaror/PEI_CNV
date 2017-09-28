@@ -1,0 +1,24 @@
+PATH_TO_FILE	PANEL	INTERVALS	TOTAL_READS_IN_BAM
+/home/shared/GUI/intermediateData/MT95-CA20-NS-GUI20170203_164206_G/bySAMPLE/Sample_CA120-1	CA20	1737 /home/shared/GUI/intermediateData/MT95-CA20-NS-GUI20170203_164206_G/bySAMPLE/Sample_CA120-1/exon_orderedDepths.tsv	408773
+/home/shared/GUI/intermediateData/MT124-CA33-GUI-OK20170713_090420_G/bySAMPLE/Sample_CA286	CA33	1737 /home/shared/GUI/intermediateData/MT124-CA33-GUI-OK20170713_090420_G/bySAMPLE/Sample_CA286/exon_orderedDepths.tsv	933740
+/home/shared/GUI/intermediateData/MT88-Myel149-15420161227_141445_S/Sample_M140	Myel149	326 /home/shared/GUI/intermediateData/MT88-Myel149-15420161227_141445_S/Sample_M140/exon_orderedDepths.tsv	6204084
+/home/shared/GUI/intermediateData/CA_8_9_040416_201644_105157/Sample_CA58-1	CA_8_9_040416_201644_105157	1738 /home/shared/GUI/intermediateData/CA_8_9_040416_201644_105157/Sample_CA58-1/exon_orderedDepths.tsv	994299
+/home/shared/GUI/intermediateData/MT65-Myel3-220161227_114342_S/bySAMPLE/Sample_M136	Myel3	326 /home/shared/GUI/intermediateData/MT65-Myel3-220161227_114342_S/bySAMPLE/Sample_M136/exon_orderedDepths.tsv	808153
+/home/shared/GUI/intermediateData/MT73-TSO23-GUI20161129_100816_G/Sample_g123-1	TSO23	62180 /home/shared/GUI/intermediateData/MT73-TSO23-GUI20161129_100816_G/Sample_g123-1/exon_orderedDepths.tsv	9255747
+/home/shared/GUI/intermediateData/MT117_CA27-GUI20170522_133032_G/Sample_CA166-3	GUI20170522_133032_G	1737 /home/shared/GUI/intermediateData/MT117_CA27-GUI20170522_133032_G/Sample_CA166-3/exon_orderedDepths.tsv	3149304
+/home/shared/GUI/intermediateData/MT119-CA28-GUI20170530_112909_G/bySAMPLE/Sample_CA197-1	CA28	1737 /home/shared/GUI/intermediateData/MT119-CA28-GUI20170530_112909_G/bySAMPLE/Sample_CA197-1/exon_orderedDepths.tsv	4046969
+/home/shared/GUI/intermediateData/MT39-CA11y12-REP_2016627_172738/Sample_CA72	CA11y12	1738 /home/shared/GUI/intermediateData/MT39-CA11y12-REP_2016627_172738/Sample_CA72/exon_orderedDepths.tsv	1445905
+/home/shared/GUI/intermediateData/MT125_TSO59-GUI20170714_112111_G/Sample_g213-1	GUI20170714_112111_G	62180 /home/shared/GUI/intermediateData/MT125_TSO59-GUI20170714_112111_G/Sample_g213-1/exon_orderedDepths.tsv	10510760
+/home/shared/GUI/intermediateData/MT124-CA33-NS-GUI20170710_144747_G/bySAMPLE/Sample_CA253	CA33	1737 /home/shared/GUI/intermediateData/MT124-CA33-NS-GUI20170710_144747_G/bySAMPLE/Sample_CA253/exon_orderedDepths.tsv	812561
+/home/shared/GUI/intermediateData/MT124-CA33-GUI-OK20170713_090420_G/bySAMPLE/Sample_CA145-1	CA33	1737 /home/shared/GUI/intermediateData/MT124-CA33-GUI-OK20170713_090420_G/bySAMPLE/Sample_CA145-1/exon_orderedDepths.tsv	1226164
+/home/shared/GUI/intermediateData/MT58-CA14-32271241_201699_16290/Sample_CA56-4	CA14	1738 /home/shared/GUI/intermediateData/MT58-CA14-32271241_201699_16290/Sample_CA56-4/exon_orderedDepths.tsv	745763
+/home/shared/GUI/intermediateData/MT130-CA36-45619578-NS-GUI20170821_120643_G/bySAMPLE/Sample_G200-1	CA36	1737 /home/shared/GUI/intermediateData/MT130-CA36-45619578-NS-GUI20170821_120643_G/bySAMPLE/Sample_G200-1/exon_orderedDepths.tsv	274285
+/home/shared/GUI/intermediateData/MT76-AFP2-520161222_112031_G/Sample_BRCA-06	AFP2	46 /home/shared/GUI/intermediateData/MT76-AFP2-520161222_112031_G/Sample_BRCA-06/exon_orderedDepths.tsv	377537
+/home/shared/GUI/intermediateData/AFP2-1-som_201648_12520/Sample_CA56	1	67 /home/shared/GUI/intermediateData/AFP2-1-som_201648_12520/Sample_CA56/exon_orderedDepths.tsv	114776
+/home/shared/GUI/intermediateData/MT-46-InDi-5_201684_114837/Sample_G89-1	46	8802 /home/shared/GUI/intermediateData/MT-46-InDi-5_201684_114837/Sample_G89-1/exon_orderedDepths.tsv	2228715
+/home/shared/GUI/intermediateData/MT-55-Myel220161223_184803_S/Sample_M116	55	326 /home/shared/GUI/intermediateData/MT-55-Myel220161223_184803_S/Sample_M116/exon_orderedDepths.tsv	5362367
+/home/shared/GUI/intermediateData/MT119-CA30-GUI20170524_162624_G/bySAMPLE/Sample_CA218-1	CA30	1737 /home/shared/GUI/intermediateData/MT119-CA30-GUI20170524_162624_G/bySAMPLE/Sample_CA218-1/exon_orderedDepths.tsv	324795
+/home/shared/GUI/intermediateData/MT131-CA37r-46350343-GUI-28Ago1720170828_093134_G/Sample_CA319-1	CA37r	1737 /home/shared/GUI/intermediateData/MT131-CA37r-46350343-GUI-28Ago1720170828_093134_G/Sample_CA319-1/exon_orderedDepths.tsv	2803017
+/home/shared/GUI/intermediateData/MT122-TSO57-GUI20170615_115046_G/bySAMPLE/Sample_g203	TSO57	62180 /home/shared/GUI/intermediateData/MT122-TSO57-GUI20170615_115046_G/bySAMPLE/Sample_g203/exon_orderedDepths.tsv	14027785
+/home/shared/GUI/intermediateData/MT100-TSO43-GUI20170309_165543_G/Sample_g166-1	TSO43	62180 /home/shared/GUI/intermediateData/MT100-TSO43-GUI20170309_165543_G/Sample_g166-1/exon_orderedDepths.tsv	8940018
+/home/shared/GUI/intermediateData/BRCA-CAP-CA64-MT30-SOM_201655_133029/Sample_CA65	CAP	49 /home/shared/GUI/intermediateData/BRCA-CAP-CA64-MT30-SOM_201655_133029/Sample_CA65/exon_orderedDepths.tsv	138387

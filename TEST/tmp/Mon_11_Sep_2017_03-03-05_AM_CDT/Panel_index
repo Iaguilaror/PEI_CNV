@@ -1,0 +1,10 @@
+PATH_TO_FILE	PANEL	INTERVALS	TOTAL_READS_IN_BAM
+/home/shared/GUI/intermediateData/MT104-CA24-GUI20170308_084534_G/Sample_CA164-1	CA24	1737 /home/shared/GUI/intermediateData/MT104-CA24-GUI20170308_084534_G/Sample_CA164-1/exon_orderedDepths.tsv	3160783
+/home/shared/GUI/intermediateData/MT39-CA11y12-REP_2016627_172738/Sample_CA68	CA11y12	1738 /home/shared/GUI/intermediateData/MT39-CA11y12-REP_2016627_172738/Sample_CA68/exon_orderedDepths.tsv	1628583
+/home/shared/GUI/intermediateData/CA_8_9_040416_201644_105157/Sample_CA58-1	CA_8_9_040416_201644_105157	1738 /home/shared/GUI/intermediateData/CA_8_9_040416_201644_105157/Sample_CA58-1/exon_orderedDepths.tsv	994299
+/home/shared/GUI/intermediateData/ID-4-MT29_2016426_95928/Sample_G53-1	4	8802 /home/shared/GUI/intermediateData/ID-4-MT29_2016426_95928/Sample_G53-1/exon_orderedDepths.tsv	2468492
+/home/shared/GUI/intermediateData/MT119-CA30-GUI20170524_162624_G/bySAMPLE/Sample_CA220-1	CA30	1737 /home/shared/GUI/intermediateData/MT119-CA30-GUI20170524_162624_G/bySAMPLE/Sample_CA220-1/exon_orderedDepths.tsv	3305136
+/home/shared/GUI/intermediateData/MT119-CA28-GUI20170530_112909_G/bySAMPLE/Sample_CA188-1	CA28	1737 /home/shared/GUI/intermediateData/MT119-CA28-GUI20170530_112909_G/bySAMPLE/Sample_CA188-1/exon_orderedDepths.tsv	4528408
+/home/shared/GUI/intermediateData/MT76-Myel-320161222_132526_S/Sample_M34	Myel	322 /home/shared/GUI/intermediateData/MT76-Myel-320161222_132526_S/Sample_M34/exon_orderedDepths.tsv	9362607
+/home/shared/GUI/intermediateData/MT110-CA26-GUI20170410_095436_G/Sample_CA129-2	CA26	1737 /home/shared/GUI/intermediateData/MT110-CA26-GUI20170410_095436_G/Sample_CA129-2/exon_orderedDepths.tsv	2258685
+/home/shared/GUI/intermediateData/MT69-CA16-rep20161103_120019_G/Sample_CA104-1	CA16	1737 /home/shared/GUI/intermediateData/MT69-CA16-rep20161103_120019_G/Sample_CA104-1/exon_orderedDepths.tsv	1804821

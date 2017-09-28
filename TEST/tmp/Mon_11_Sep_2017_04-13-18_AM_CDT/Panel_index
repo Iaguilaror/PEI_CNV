@@ -1,0 +1,24 @@
+PATH_TO_FILE	PANEL	INTERVALS	TOTAL_READS_IN_BAM
+/home/shared/GUI/intermediateData/MT93-InDi6-Rej-GUI20170201_130031_G/Sample_g146-1	InDi6	8775 /home/shared/GUI/intermediateData/MT93-InDi6-Rej-GUI20170201_130031_G/Sample_g146-1/exon_orderedDepths.tsv	3737290
+/home/shared/GUI/intermediateData/AFP2-1-ger_201648_111425/Sample_CA41-3	1	59 /home/shared/GUI/intermediateData/AFP2-1-ger_201648_111425/Sample_CA41-3/exon_orderedDepths.tsv	135714
+/home/shared/GUI/intermediateData/MT1-Myel-GUI20170314_143820_S/Sample_M27	Myel	326 /home/shared/GUI/intermediateData/MT1-Myel-GUI20170314_143820_S/Sample_M27/exon_orderedDepths.tsv	8830277
+/home/shared/GUI/intermediateData/MT7-Miel-GUI20170315_103931_S/Sample_M23	Miel	326 /home/shared/GUI/intermediateData/MT7-Miel-GUI20170315_103931_S/Sample_M23/exon_orderedDepths.tsv	4143890
+/home/shared/GUI/intermediateData/MT118-TSO55-GUI20170629_142520_G/bySAMPLE/Sample_g199	TSO55	62180 /home/shared/GUI/intermediateData/MT118-TSO55-GUI20170629_142520_G/bySAMPLE/Sample_g199/exon_orderedDepths.tsv	10418733
+/home/shared/GUI/intermediateData/MT98-CA21-GUI20170426_165455_G/bySAMPLE/Sample_CA132-1	CA21	1737 /home/shared/GUI/intermediateData/MT98-CA21-GUI20170426_165455_G/bySAMPLE/Sample_CA132-1/exon_orderedDepths.tsv	930715
+/home/shared/GUI/intermediateData/-MT106-CA25-GUI20170321_095539_G/Sample_CA175-1	MT106	1737 /home/shared/GUI/intermediateData/-MT106-CA25-GUI20170321_095539_G/Sample_CA175-1/exon_orderedDepths.tsv	3635323
+/home/shared/GUI/intermediateData/MT69-CA16-rep20161103_120019_G/Sample_CA102-1	CA16	1737 /home/shared/GUI/intermediateData/MT69-CA16-rep20161103_120019_G/Sample_CA102-1/exon_orderedDepths.tsv	2312124
+/home/shared/GUI/intermediateData/MT75-CA15-rep-GUI20161219_135247_G/Sample_CA91-1	CA15	1737 /home/shared/GUI/intermediateData/MT75-CA15-rep-GUI20161219_135247_G/Sample_CA91-1/exon_orderedDepths.tsv	2374632
+/home/shared/GUI/intermediateData/MT107-TSO48-GUI20170324_121156_G/Sample_g176-2	TSO48	62180 /home/shared/GUI/intermediateData/MT107-TSO48-GUI20170324_121156_G/Sample_g176-2/exon_orderedDepths.tsv	10949183
+/home/shared/GUI/intermediateData/MT36-TSO8_201666_11371/Sample_G69-2	TSO8_201666_11371	62310 /home/shared/GUI/intermediateData/MT36-TSO8_201666_11371/Sample_G69-2/exon_orderedDepths.tsv	9990042
+/home/shared/GUI/intermediateData/MT39-CA11y12-REP_2016627_172738/Sample_CA65	CA11y12	1738 /home/shared/GUI/intermediateData/MT39-CA11y12-REP_2016627_172738/Sample_CA65/exon_orderedDepths.tsv	2038567
+/home/shared/GUI/intermediateData/MT117_CA27-GUI20170522_133032_G/Sample_CA166-3	GUI20170522_133032_G	1737 /home/shared/GUI/intermediateData/MT117_CA27-GUI20170522_133032_G/Sample_CA166-3/exon_orderedDepths.tsv	3149304
+/home/shared/GUI/intermediateData/CA_8_9_040416_201644_105157/Sample_CA48	CA_8_9_040416_201644_105157	1738 /home/shared/GUI/intermediateData/CA_8_9_040416_201644_105157/Sample_CA48/exon_orderedDepths.tsv	
+/home/shared/GUI/intermediateData/ID-4-MT29_2016426_95928/Sample_G75	4	8802 /home/shared/GUI/intermediateData/ID-4-MT29_2016426_95928/Sample_G75/exon_orderedDepths.tsv	1282898
+/home/shared/GUI/intermediateData/MT98-CA21-GUI20170426_165455_G/bySAMPLE/Sample_ca47-1	CA21	1737 /home/shared/GUI/intermediateData/MT98-CA21-GUI20170426_165455_G/bySAMPLE/Sample_ca47-1/exon_orderedDepths.tsv	722745
+/home/shared/GUI/intermediateData/MT119-CA29-GUI20170525_124951_G/bySAMPLE/Sample_CA200-1	CA29	1737 /home/shared/GUI/intermediateData/MT119-CA29-GUI20170525_124951_G/bySAMPLE/Sample_CA200-1/exon_orderedDepths.tsv	4226547
+/home/shared/GUI/intermediateData/MT31-CA10_2016819_102524/Sample_CA66	CA10_2016819_102524	1738 /home/shared/GUI/intermediateData/MT31-CA10_2016819_102524/Sample_CA66/exon_orderedDepths.tsv	126898
+/home/shared/GUI/intermediateData/MT4mas5Myel-GUI20170307_123518_S/bySAMPLE/Sample_M25	GUI20170307_123518_S	326 /home/shared/GUI/intermediateData/MT4mas5Myel-GUI20170307_123518_S/bySAMPLE/Sample_M25/exon_orderedDepths.tsv	2671591
+/home/shared/GUI/intermediateData/CA_8_9_040416_201644_105157/Sample_CA49	CA_8_9_040416_201644_105157	1738 /home/shared/GUI/intermediateData/CA_8_9_040416_201644_105157/Sample_CA49/exon_orderedDepths.tsv	1341289
+/home/shared/GUI/intermediateData/CA_8_9_040416_201644_105157/Sample_CA58-2	CA_8_9_040416_201644_105157	1738 /home/shared/GUI/intermediateData/CA_8_9_040416_201644_105157/Sample_CA58-2/exon_orderedDepths.tsv	1296810
+/home/shared/GUI/intermediateData/MT130-CA37-NS-GUI20170822_162622_G/bySAMPLE/Sample_CA318-1	CA37	1737 /home/shared/GUI/intermediateData/MT130-CA37-NS-GUI20170822_162622_G/bySAMPLE/Sample_CA318-1/exon_orderedDepths.tsv	329001
+/home/shared/GUI/intermediateData/MT124-CA33-NS-GUI20170710_144747_G/bySAMPLE/Sample_CA238	CA33	1737 /home/shared/GUI/intermediateData/MT124-CA33-NS-GUI20170710_144747_G/bySAMPLE/Sample_CA238/exon_orderedDepths.tsv	961612
