@@ -1,0 +1,6 @@
+/run/media/winter/Winter_HDrive_2/Biocore-data/Datos_intermedios/Biocore_exomas_SON_sep2017/Sample_OscarCampos/exon_orderedDepths.tsv
+/run/media/winter/Winter_HDrive_2/Biocore-data/sample_142/Datos_intermedios/Biocore_exomas_SON_sep2017/Sample_142/exon_orderedDepths.tsv
+/run/media/winter/Winter_HDrive_2/Biocore-data/pruebas/ReporteSample_142/exon_orderedDepths.tsv
+/run/media/winter/Winter_HDrive_2/Biocore-data/pruebas/sample_698/intermedios/Sample_698/exon_orderedDepths.tsv
+/run/media/winter/Winter_HDrive_2/Biocore-data/sample_698/intermediate-files/Sample_698/exon_orderedDepths.tsv
+/run/media/winter/Winter_HDrive_2/Biocore-data/sample_R1231/inter/Sample_R1231/exon_orderedDepths.tsv
