@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cat data/genes_of_interest.txt \
+| sed -e "s#^#results/#" \
+-e "s#\$#.pdf#"

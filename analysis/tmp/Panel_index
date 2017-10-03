@@ -1,0 +1,5 @@
+PATH_TO_FILE	PANEL	INTERVALS	TOTAL_READS_IN_BAM
+/run/media/winter/Winter_HDrive_2/Biocore-data/Datos_intermedios/Biocore_exomas_SON_sep2017/Sample_OscarCampos	data	286756 /run/media/winter/Winter_HDrive_2/Biocore-data/Datos_intermedios/Biocore_exomas_SON_sep2017/Sample_OscarCampos/exon_orderedDepths.tsv	61191273
+/run/media/winter/Winter_HDrive_2/Biocore-data/sample_142/Datos_intermedios/Biocore_exomas_SON_sep2017/Sample_142	data	286756 /run/media/winter/Winter_HDrive_2/Biocore-data/sample_142/Datos_intermedios/Biocore_exomas_SON_sep2017/Sample_142/exon_orderedDepths.tsv	49450423
+/run/media/winter/Winter_HDrive_2/Biocore-data/pruebas/ReporteSample_142	data	286756 /run/media/winter/Winter_HDrive_2/Biocore-data/pruebas/ReporteSample_142/exon_orderedDepths.tsv	49450423
+/run/media/winter/Winter_HDrive_2/Biocore-data/pruebas/sample_698/intermedios/Sample_698	data	230419 /run/media/winter/Winter_HDrive_2/Biocore-data/pruebas/sample_698/intermedios/Sample_698/exon_orderedDepths.tsv	40952572
